@@ -1,5 +1,5 @@
 # HoloLensApp
-A mixed reality application using Azure Cloud and Microsoft Hololens using Digital Twins
+A mixed reality application for the Microsoft Hololens developed to display real time data from the sensors to engineers
 
 ## Aims
 As part of my Year In Industry, I led training to engineers to use the Microsoft HoloLens so that virtual
