@@ -1,4 +1,4 @@
-# HoloLensApp
+# Visualising IoT Data with the HoloLens
 A mixed reality application for the Microsoft Hololens was developed to display real-time data from the sensors to engineers.
 
 ## Aims
