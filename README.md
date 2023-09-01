@@ -44,11 +44,15 @@ Please see [Dissertation](Dissertation.pdf) or [Presentation](Presentation.pptx)
 
 ## Demo
 
-https://github.com/themegaphoenix/HoloLensApp/assets/9766462/f02d86fe-8cc0-40a5-8972-a9c4128235b5
+https://github.com/themegaphoenix/HoloLensApp/assets/9766462/c248d7b7-5ef5-409c-95fd-cd32b3e81435
 
-https://github.com/themegaphoenix/HoloLensApp/assets/9766462/8892e006-4911-4c7a-aa69-8db3b6335154
 
-https://github.com/themegaphoenix/HoloLensApp/assets/9766462/431421a5-3c6d-4d0b-bd2e-e0149ef82ede
+https://github.com/themegaphoenix/HoloLensApp/assets/9766462/9e1eef24-1aa6-44e9-84bb-03be439f9589
+
+
+https://github.com/themegaphoenix/HoloLensApp/assets/9766462/55f75718-8bfe-4e33-b7f3-35511943fcbc
+
+
 
 ## Source Code
 As this was an application developed under Uniper sponsorship, the source code is not available publically.
