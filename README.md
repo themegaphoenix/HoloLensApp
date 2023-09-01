@@ -39,7 +39,7 @@ SignalR would allow broadcasting the data to all the clients connected. This is 
 For the application that will be developed, I decided to go for a Unity 3D application. This is mainly due to the documentation that Microsoft provides being catered for it. The Mixed Reality Toolkit that provides UI components for the HoloLens is also developed for Unity. This application will subscribe to the Azure SignalR broadcast allowing it to display live data to the user into dashboards. These dashboards will be fixed onto a location using Azure Spatial Anchors.
 
 
-## Disertation
+## Dissertation
 Please see [Dissertation](Dissertation.pdf) or [Presentation](Presentation.pptx) for more information.
 
 ## Demo
